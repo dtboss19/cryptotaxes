@@ -1,0 +1,7 @@
+﻿__pycache__/
+.venv/
+.env
+*.pyc
+.DS_Store
+test*.csv
+wallets.json
